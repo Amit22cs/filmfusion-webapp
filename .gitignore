@@ -1,0 +1,17 @@
+# Ignore compiled Java files
+*.class
+
+# Maven target directory
+target/
+
+# Logs
+*.log
+
+# Eclipse settings
+.settings/
+.classpath
+.project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
